@@ -1,6 +1,6 @@
-//# Exercício 10
+// Exercício 10
 
-//## Identificando caracteres
+// Identificando caracteres
 
 //Faça um programa que identifica caracteres. Seu programa deverá classificar este único caractere, que estará guardado numa variável, em uma das categorias abaixo:
 
@@ -18,7 +18,7 @@
 //Vogal maiúscula
 
 
-const caractere = "E";
+const caractere = "0";
 
 if (caractere === "A" || caractere === "E" || caractere === "I" || caractere === "O" || caractere === "U") {
     console.log('Vogal Maiuscula');
@@ -34,7 +34,7 @@ if (caractere === "A" || caractere === "E" || caractere === "I" || caractere ===
     caractere === "7" ||
     caractere === "8" ||
     caractere === "9" ||
-    caractere === "10") {
+    caractere === "0") {
     console.log('Numero');
 
 } else {
